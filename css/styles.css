@@ -93,13 +93,10 @@ section {
 section h2 {
     font-size: 2.5em;
     margin-bottom: 1em;
-    color: #fff;
+    color: #009B77; /* Use blue-green for readability on white background */
 }
 
 #about, #community {
-    background: rgba(255, 255, 255, 0.9);
-    border-radius: 10px;
-    padding: 2em;
     margin: 2em 0;
 }
 
@@ -111,13 +108,19 @@ section h2 {
     margin-bottom: 0.5em;
 }
 
-/* Vertical box styling for specific sections */
+/* Main content with three columns */
+#main-content {
+    display: flex;
+    gap: 2em;
+    justify-content: space-between;
+}
+
 .vertical-box {
     background: white;
     border: 2px solid #009B77;
     border-radius: 10px;
     padding: 2em;
-    margin: 2em 0;
+    width: 30%; /* Make sure the boxes are of equal width */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     text-align: left;
 }
@@ -142,3 +145,4 @@ footer nav a {
 footer nav a:hover {
     color: #4ABDAC;
 }
+
