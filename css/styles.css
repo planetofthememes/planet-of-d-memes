@@ -10,7 +10,7 @@ body, h1, h2, p, a, ul, li, nav, section {
 /* General body styling */
 body {
     font-family: 'Comic Sans MS', cursive, sans-serif;
-    background: linear-gradient(135deg, #ffcc00 0%, #ff9900 100%);
+    background: linear-gradient(135deg, #009B77 0%, #4ABDAC 100%);
     color: #333;
     text-align: center;
 }
@@ -48,7 +48,7 @@ header nav a {
 }
 
 header nav a:hover {
-    color: #ffcc00;
+    color: #4ABDAC;
 }
 
 /* Hero section styling */
@@ -70,7 +70,7 @@ header nav a:hover {
 
 .cta-button {
     display: inline-block;
-    background: #ffcc00;
+    background: #4ABDAC;
     color: #333;
     padding: 0.5em 1.5em;
     margin: 0.5em;
@@ -82,7 +82,7 @@ header nav a:hover {
 
 .cta-button:hover {
     background: #333;
-    color: #ffcc00;
+    color: #4ABDAC;
 }
 
 /* Section styling */
@@ -96,7 +96,7 @@ section h2 {
     color: #fff;
 }
 
-#about, #features {
+#about, #community {
     background: rgba(255, 255, 255, 0.9);
     border-radius: 10px;
     padding: 2em;
@@ -111,29 +111,15 @@ section h2 {
     margin-bottom: 0.5em;
 }
 
-/* Box styling for specific sections */
-.box {
-    background: rgba(255, 255, 255, 0.9);
-    border: 2px solid #ffcc00;
+/* Vertical box styling for specific sections */
+.vertical-box {
+    background: white;
+    border: 2px solid #009B77;
     border-radius: 10px;
     padding: 2em;
     margin: 2em 0;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-#roadmap, #tokenomics, #community {
-    background: rgba(0, 0, 0, 0.8);
-    color: white;
-}
-
-#community .cta-button {
-    background: #ff6600;
-    color: white;
-}
-
-#community .cta-button:hover {
-    background: white;
-    color: #ff6600;
+    text-align: left;
 }
 
 footer {
@@ -154,5 +140,5 @@ footer nav a {
 }
 
 footer nav a:hover {
-    color: #ffcc00;
+    color: #4ABDAC;
 }

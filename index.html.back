@@ -32,26 +32,22 @@
         <h2>About Planet of the Memes</h2>
         <p>In a galaxy not so far away, lies a mystical planet where memes reign supreme. Welcome to Planet of the Memes, the ultimate destination for crypto enthusiasts and meme lovers. Here, the power of blockchain meets the humor and creativity of internet culture, creating an unparalleled ecosystem where users can earn, trade, and enjoy memes in ways never imagined before.</p>
     </section>
-    <section id="features" class="container vertical-box">
+    <section id="features" class="container">
         <h2>Explore the Memeverse</h2>
         <ul>
-            <li>Meme Marketplace: Trade your favorite memes as NFTs.</li>
-            <li>Meme Mining: Earn our native token, $MEME, by creating and sharing memes.</li>
-            <li>Meme Wars: Participate in community contests and battles to win exclusive rewards.</li>
-            <li>Meme Vault: Stake $MEME tokens to unlock rare and legendary memes.</li>
+            <li>Updating this soon..</li>
         </ul>
     </section>
-    <section id="roadmap" class="container vertical-box">
+    <section id="roadmap" class="container">
         <h2>Our Journey</h2>
-        <p><strong>Q1 2024:</strong> Concept Development, Community Building</p>
-        <p><strong>Q2 2024:</strong> Platform Launch, Meme Mining Beta</p>
-        <p><strong>Q3 2024:</strong> Marketplace Integration, First Meme Wars Event</p>
+        <p><strong>Q2 2024:</strong> Concept Development, Community Building, hit Raydium</p>
+        <p><strong>Q3 2024:</strong> Platform Launch, Meme Mining Beta</p>
         <p><strong>Q4 2024:</strong> Full Platform Launch, Partnerships and Expansions</p>
     </section>
-    <section id="tokenomics" class="container vertical-box">
+    <section id="tokenomics" class="container">
         <h2>Tokenomics</h2>
-        <p><strong>Token:</strong> $MEME</p>
-        <p><strong>Supply:</strong> 1,000,000,000 $MEME</p>
+        <p><strong>Token:</strong> $PLANETMEME</p>
+        <p><strong>Supply:</strong> $PLANETMEME will be updated soon.</p>
         <p><strong>Distribution:</strong></p>
         <ul>
             <li>40% Community Rewards</li>
@@ -63,9 +59,8 @@
     <section id="community" class="container">
         <h2>Join the Meme Revolution</h2>
         <a href="#" class="cta-button">Join Our Discord</a>
-        <a href="#" class="cta-button">Follow Us on Telegram</a>
-        <a class="twitter-timeline" href="https://twitter.com/planetofdmemes?ref_src=twsrc%5Etfw">Tweets by planetofdmemes</a> 
-        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <a href="#" class="cta-button">Creating Telegram account soon</a>
+        <a class="twitter-timeline" href="https://twitter.com/planetofdmemes?ref_src=twsrc%5Etfw">Tweets by planetofdmemes</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
         <a href="#" class="cta-button">Follow Us on Twitter</a>
     </section>
     <footer class="container">
@@ -80,3 +75,4 @@
     </footer>
 </body>
 </html>
+
