@@ -53,7 +53,7 @@ header nav a:hover {
 
 /* Hero section styling */
 #hero {
-    background: url('https://via.placeholder.com/1920x600') no-repeat center center/cover;
+    background: url('../images/planetsofthememes.jpg') no-repeat center center/cover;
     color: white;
     padding: 5em 0;
 }
